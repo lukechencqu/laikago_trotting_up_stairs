@@ -1,0 +1,27 @@
+
+debug: true
+checkDefaultFoothold_Debug: true
+
+footRadius: 0.03
+defaultFootholdThreshold: 0.7
+candidateFootholdThreshold: 0.7
+gaitCycleNum: 2
+searchRadius: 0.1
+stepLength: 0.2
+
+RF_defaultBiasX: 0.3
+RF_defaultBiasY: -0.2
+RH_defaultBiasX: -0.3
+RH_defaultBiasY: -0.2
+LH_defaultBiasX: -0.3
+LH_defaultBiasY: 0.2
+LF_defaultBiasX: 0.3
+LF_defaultBiasY: 0.2
+
+laikago_kinematics:
+  length: 0.4387
+  width: 0.175
+  l1: 0.037
+  l2: 0.25
+  l3: 0.25
+  skewLength: 0.1
